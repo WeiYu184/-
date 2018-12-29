@@ -1,0 +1,10 @@
+SSN: 222-22-2222
+Name: Simpson, Bart
+Registered For 1 Classes
+  - CMSC0412-0101
+SSN: 111-11-1111
+Name: Sanders, Lisa
+Registered For 3 Classes
+  - ENEE0114-0103
+  - CMSC0412-0101
+  - ENME0515-0123

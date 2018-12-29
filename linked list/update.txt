@@ -1,0 +1,4 @@
+SSN: 222-22-2222
+Name: Simpson, Bart
+Registered For 1 Classes
+  - CMSC0412-0101

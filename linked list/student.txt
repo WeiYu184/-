@@ -1,0 +1,13 @@
+Lisa
+Sanders
+111-11-1111
+3
+ENEE 114 0103
+CMSC 412 0101
+ENME 515 0123
+Bart
+Simpson
+222-22-2222
+1
+CMSC 412 0101
+*****
